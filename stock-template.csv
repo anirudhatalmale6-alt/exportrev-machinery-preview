@@ -1,0 +1,5 @@
+reference,category,make,model,year,price,hours,weight_t,power_hp,city,country,status,photo,photo_credit,photo_licence,photo_source
+ER-1001,Excavators,CATERPILLAR,320 GC,2019,98000,6200,21.5,160,Rotterdam,Netherlands,Available,,,,
+ER-1002,Cranes,LIEBHERR,LTM 1090-4.2,2016,520000,4100,60,510,Antwerp,Belgium,Under offer,,,,
+ER-1003,Trucks and heavy vehicles,VOLVO,FH 460,2021,62000,410000,18,460,Casablanca,Morocco,Just listed,,,,
+ER-1004,Spare parts,KOMATSU,Hydraulic pump,2023,3400,,,,Hamburg,Germany,Available,,,,
